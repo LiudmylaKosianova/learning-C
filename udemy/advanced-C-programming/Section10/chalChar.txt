@@ -1,0 +1,11 @@
+In the 80 years since the shocking collapse of the Tacoma Narrows Bridge in Washington, 
+engineers have designed suspended structures to minimize their universal weakness: resonance. 
+If not designed to deal with oscillations caused by forces like wind, the frequency of 
+these forces would cause tensions to build and inevitably break the structure.
+
+When Jim Clair examined how to focus mirrors at a concentrated solar energy power plant, 
+he thought about suspending the mirrors on cables but remembered the images 
+of the Tacoma Narrows Bridge shaking itself apart. To determine how well these suspended 
+solar panels would hold up to potentially destructive oscillations, Clair, and his 
+company Skysun LLC in Cleveland, Ohio, sought the help of NASA’s Glenn Research Center 
+in 2016 to verify his design was safe from dangerous resonance.
